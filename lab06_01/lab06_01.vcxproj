@@ -115,6 +115,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Invertion.cpp" />
+    <ClCompile Include="libFiles.cpp" />
+    <ClCompile Include="libTables.cpp" />
+    <ClCompile Include="Podwika_Grzegorz_Program_01.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Invertion.h" />
+    <ClInclude Include="libFiles.h" />
+    <ClInclude Include="libTables.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
